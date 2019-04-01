@@ -2,4 +2,5 @@
 
 int main (void){
     hello();
+    cout << "nishizhu" << endl;
 }
