@@ -1,5 +1,6 @@
-#include "hello.h"
+#include <iostream> 
+using namespace std;
 
 int main (void){
-    hello();
+    	cout << "HelloWorld" << endl;
 }
