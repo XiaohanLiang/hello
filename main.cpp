@@ -1,6 +1,8 @@
 #include "hello.h"
+#include <iostream>
+using namespace std;
 
-int main (void){
+int main (){
     hello();
     cout << "nishizhu" << endl;
     cout << "nishizhu" << endl;
